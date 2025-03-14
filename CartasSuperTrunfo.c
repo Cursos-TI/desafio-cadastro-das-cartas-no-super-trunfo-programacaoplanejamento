@@ -2,6 +2,7 @@
 
 int main(){
     printf("Desafio Super Trunfo - Países!\n");
+    printf("Novo commit\n");
 }
 
 // Desafio Super Trunfo - Países
